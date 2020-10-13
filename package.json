@@ -1,0 +1,22 @@
+{
+  "name": "javascript-testing-practice",
+  "version": "1.0.0",
+  "description": "![Coming Soon](./coming-soon.webp)\r > gif credit: [Molang](https://giphy.com/molangofficialpage/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moinkhanif/javascript-testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moinkhanif/javascript-testing-practice/issues"
+  },
+  "homepage": "https://github.com/moinkhanif/javascript-testing-practice#readme",
+  "devDependencies": {
+    "jest": "^26.5.3"
+  }
+}
