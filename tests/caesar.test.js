@@ -1,4 +1,4 @@
-const caesar = require('./caesar');
+const caesar = require('../functions/caesar');
 
 it('is case sensitive', () => {
   expect(caesar('BLACKPINK', 1)).toBe('CMBDLQJOL');
