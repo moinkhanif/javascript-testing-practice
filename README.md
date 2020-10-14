@@ -1,5 +1,10 @@
 # JavaScript Testing Practice
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
 > The project helped us learn and practice Jest, a JavaScript testing framework.
 
 ## Built With
@@ -71,3 +76,14 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](lic.url) licensed.
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/moinkhanif/javascript-testing-practice.svg?style=flat-square
+[contributors-url]: https://github.com/moinkhanif/javascript-testing-practice/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/moinkhanif/javascript-testing-practice.svg?style=flat-square
+[forks-url]: https://github.com/moinkhanif/javascript-testing-practice/network/members
+[stars-shield]: https://img.shields.io/github/stars/moinkhanif/javascript-testing-practice.svg?style=flat-square
+[stars-url]: https://github.com/moinkhanif/javascript-testing-practice/stargazers
+[issues-shield]: https://img.shields.io/github/issues/moinkhanif/javascript-testing-practice.svg?style=flat-square
+[issues-url]: https://github.com/moinkhanif/javascript-testing-practice/issues
