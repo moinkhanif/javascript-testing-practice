@@ -1,0 +1,26 @@
+{
+  "name": "javascript-testing-practice",
+  "version": "1.0.0",
+  "description": "![Coming Soon](./coming-soon.webp)\r > gif credit: [Molang](https://giphy.com/molangofficialpage/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moinkhanif/javascript-testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moinkhanif/javascript-testing-practice/issues"
+  },
+  "homepage": "https://github.com/moinkhanif/javascript-testing-practice#readme",
+  "devDependencies": {
+    "babel-eslint": "10.1.x",
+    "eslint": "6.8.x",
+    "eslint-config-airbnb-base": "14.1.x",
+    "eslint-plugin-import": "2.20.x",
+    "jest": "^26.5.3"
+  }
+}
